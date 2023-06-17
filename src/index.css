@@ -27,7 +27,7 @@ code {
   align-items: center;
   justify-content: center;
   padding: 2px;
-  /* min-height: 100vh; */
+  min-height: 100vh;
   background: rgb(39, 42, 85);
   background: radial-gradient(circle, #1E2140 0%, #151932 65%);
 }
@@ -84,7 +84,6 @@ button {
   border: 2px solid rgba(255, 255, 0, 0.7);
   border-radius: 0.5rem;
   margin: 0.2rem;
-  ;
   background: #0C0E1B;
   min-width: 105px;
   cursor: pointer;
